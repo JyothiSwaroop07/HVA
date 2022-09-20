@@ -1,9 +1,9 @@
 body{
-    background-color:rgb(243, 235, 237);
+    background-color:rgb(213, 235, 237);
 }
 table{
     margin:110px 50px 30px 500px;
-    background-color: rgb(47, 70, 47);
+    background-color: rgb(49, 80, 47);
     
 }
 table,td {
@@ -11,12 +11,13 @@ table,td {
         text-align: center;
      }
 td{
-    height:60px;
-    width:60px;
+    height:50px;
+    width:40px;
     
 }
+
 #calc{
- width: 250px;
+ width: 400px;
 border: 3px solid black;
 border-radius: 3px;
 padding: 20px;

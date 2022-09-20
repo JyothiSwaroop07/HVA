@@ -14,3 +14,11 @@ function exe(){
 function cancel(){
     val.value=val.value.substr(0,val.value.length-1);
 }
+
+function root(){
+  val.value = Math.pow(val.value,0.5);
+}
+
+function square(){
+  val.value = Math.pow(val.value,2);
+}
